@@ -1,0 +1,15 @@
+<resources>
+    <style name="Theme.Thresholds" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/midnight_blue</item>
+        <item name="colorPrimaryVariant">@color/cosmic_black</item>
+        <item name="colorOnPrimary">@color/star_white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/nebula_purple</item>
+        <item name="colorSecondaryVariant">@color/goldilocks_gold</item>
+        <item name="colorOnSecondary">@color/star_white</item>
+        <!-- Status bar color. -->
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
